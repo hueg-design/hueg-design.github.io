@@ -1,2 +1,2 @@
-# hueg-design.github.io
-HUEG design | Web design agency website. https://hueg-design.github.io
+# website
+HUEG design | Web design agency website. [hueg.design](https://hueg-design.github.io/)
